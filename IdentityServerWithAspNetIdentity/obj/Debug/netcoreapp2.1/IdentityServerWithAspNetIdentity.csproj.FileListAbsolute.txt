@@ -1,0 +1,12 @@
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.deps.json
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.runtimeconfig.json
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.runtimeconfig.dev.json
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.dll
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.pdb
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.csprojAssemblyReference.cache
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.csproj.CoreCompileInputs.cache
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.AssemblyInfoInputs.cache
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.AssemblyInfo.cs
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.dll
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerWithAspNetIdentity.pdb
+C:\tsit\IdentityServer4.Samples\Quickstarts\6_AspNetIdentity\src\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

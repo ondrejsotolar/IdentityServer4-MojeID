@@ -1,0 +1,641 @@
+2018-08-09 12:37:10.436 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-09 12:37:10.498 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-09 12:37:10.502 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-09 12:37:10.503 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-09 12:37:10.506 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-09 12:37:10.508 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-09 12:37:28.694 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-09 13:49:18.248 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-09 13:49:18.288 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-09 13:49:18.292 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-09 13:49:18.294 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-09 13:49:18.295 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-09 13:49:18.296 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-09 14:15:14.857 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-09 14:15:14.892 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-09 14:15:14.894 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-09 14:15:14.894 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-09 14:15:14.894 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-09 14:15:14.895 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-10 10:20:07.441 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-10 10:20:07.475 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-10 10:20:07.477 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-10 10:20:07.478 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-10 10:20:07.478 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-10 10:20:07.478 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-10 10:20:16.059 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-10 11:45:29.392 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-10 11:45:29.433 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-10 11:45:29.436 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-10 11:45:29.436 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-10 11:45:29.436 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-10 11:45:29.436 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-10 11:46:06.980 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-10 11:46:11.027 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-10 11:46:54.024 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-10 12:10:21.406 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-10 12:10:21.440 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-10 12:10:21.443 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-10 12:10:21.443 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-10 12:10:21.443 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-10 12:10:21.444 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-10 12:10:29.240 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-15 14:53:07.015 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-15 14:53:07.055 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-15 14:53:07.057 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-15 14:53:07.058 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-15 14:53:07.058 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-15 14:53:07.058 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-15 14:53:21.291 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 13:44:17.658 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-27 13:44:17.698 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-27 13:44:17.700 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-27 13:44:17.700 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-27 13:44:17.700 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-27 13:44:17.700 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-27 13:44:39.782 +02:00 [WRN] Heartbeat took longer than ""00:00:01"" at ""2018-08-27T11:44:34.8547264+00:00"".
+2018-08-27 13:44:42.771 +02:00 [WRN] Heartbeat took longer than ""00:00:01"" at ""2018-08-27T11:44:34.8457437+00:00"".
+2018-08-27 13:44:55.721 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 13:44:59.940 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-27 13:45:02.707 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-27 13:45:02.744 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 13:45:03.824 +02:00 [ERR] Failed executing DbCommand (135ms) [Parameters=[@__loginProvider_0='?', @__providerKey_1='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT "userLogin"."LoginProvider", "userLogin"."ProviderKey", "userLogin"."ProviderDisplayName", "userLogin"."UserId"
+FROM "AspNetUserLogins" AS "userLogin"
+WHERE ("userLogin"."LoginProvider" = @__loginProvider_0) AND ("userLogin"."ProviderKey" = @__providerKey_1)
+LIMIT 2
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+2018-08-27 13:45:04.348 +02:00 [ERR] An exception occurred in the database while iterating the results of a query for context type 'IdentityServerWithAspNetIdentity.Data.ApplicationDbContext'.
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.BufferlessMoveNext(Boolean buffer, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SingleOrDefault_[TSource](IAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.MoveNextCore(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.MoveNext(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext(CancellationToken cancellationToken)
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.BufferlessMoveNext(Boolean buffer, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SingleOrDefault_[TSource](IAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.MoveNextCore(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.MoveNext(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext(CancellationToken cancellationToken)
+2018-08-27 13:45:04.447 +02:00 [ERR] An exception occurred in the database while iterating the results of a query for context type 'IdentityServerWithAspNetIdentity.Data.ApplicationDbContext'.
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.BufferlessMoveNext(Boolean buffer, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SingleOrDefault_[TSource](IAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.MoveNextCore(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.MoveNext(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteSingletonAsyncQuery[TResult](QueryContext queryContext, Func`2 compiledQuery, IDiagnosticsLogger`1 logger, Type contextType)
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.BufferlessMoveNext(Boolean buffer, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SingleOrDefault_[TSource](IAsyncEnumerable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.MoveNext(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.MoveNextCore(CancellationToken cancellationToken)
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.MoveNext(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteSingletonAsyncQuery[TResult](QueryContext queryContext, Func`2 compiledQuery, IDiagnosticsLogger`1 logger, Type contextType)
+2018-08-27 13:45:16.517 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 13:45:17.089 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "c326a3b8-e4ce-4cca-90af-bd85e60934ad",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGC29P4OM7S:00000004",
+  "TimeStamp": "2018-08-27T11:45:17Z",
+  "ProcessId": 27476,
+  "LocalIpAddress": "127.0.0.1:17197",
+  "RemoteIpAddress": "::1"
+}
+2018-08-27 13:45:17.097 +02:00 [DBG] Augmenting SignInContext
+2018-08-27 13:45:17.098 +02:00 [DBG] Adding amr claim with value: external
+2018-08-27 13:45:17.104 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-27 13:45:17.115 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-27 13:45:17.124 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 13:45:18.576 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-27 13:45:21.115 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-27 13:45:21.136 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 13:45:21.157 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "c326a3b8-e4ce-4cca-90af-bd85e60934ad",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGC29P4OM7R:00000005",
+  "TimeStamp": "2018-08-27T11:45:21Z",
+  "ProcessId": 27476,
+  "LocalIpAddress": "127.0.0.1:17197",
+  "RemoteIpAddress": "::1"
+}
+2018-08-27 13:45:21.157 +02:00 [DBG] Augmenting SignInContext
+2018-08-27 13:45:21.157 +02:00 [DBG] Adding amr claim with value: external
+2018-08-27 13:45:21.158 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-27 13:45:21.158 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-27 13:45:21.162 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 13:45:24.626 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-27 13:45:26.794 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-27 13:45:26.815 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 13:45:26.819 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "c326a3b8-e4ce-4cca-90af-bd85e60934ad",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGC29P4OM7P:00000007",
+  "TimeStamp": "2018-08-27T11:45:26Z",
+  "ProcessId": 27476,
+  "LocalIpAddress": "127.0.0.1:17197",
+  "RemoteIpAddress": "::1"
+}
+2018-08-27 13:45:26.819 +02:00 [DBG] Augmenting SignInContext
+2018-08-27 13:45:26.819 +02:00 [DBG] Adding amr claim with value: external
+2018-08-27 13:45:26.819 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-27 13:45:26.819 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-27 13:45:26.824 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 13:50:40.255 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-27 13:50:40.296 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-27 13:50:40.301 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-27 13:50:40.302 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-27 13:50:40.304 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-27 13:50:40.305 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-27 13:50:47.048 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 13:50:49.244 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-27 13:50:52.191 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-27 13:50:52.228 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 13:50:52.776 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "c326a3b8-e4ce-4cca-90af-bd85e60934ad",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGC2D8098E4:00000004",
+  "TimeStamp": "2018-08-27T11:50:52Z",
+  "ProcessId": 22680,
+  "LocalIpAddress": "127.0.0.1:19944",
+  "RemoteIpAddress": "::1"
+}
+2018-08-27 13:50:52.787 +02:00 [DBG] Augmenting SignInContext
+2018-08-27 13:50:52.792 +02:00 [DBG] Adding amr claim with value: external
+2018-08-27 13:50:52.803 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-27 13:50:52.810 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-27 13:50:52.831 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 15:58:14.480 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-27 15:58:14.520 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-27 15:58:14.525 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-27 15:58:14.526 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-27 15:58:14.527 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-27 15:58:14.529 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-27 15:58:44.240 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-27 15:58:48.390 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-27 15:58:51.516 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-27 15:58:51.551 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 15:58:51.820 +02:00 [ERR] Failed executing DbCommand (3ms) [Parameters=[@__loginProvider_0='?', @__providerKey_1='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT "userLogin"."LoginProvider", "userLogin"."ProviderKey", "userLogin"."ProviderDisplayName", "userLogin"."UserId"
+FROM "AspNetUserLogins" AS "userLogin"
+WHERE ("userLogin"."LoginProvider" = @__loginProvider_0) AND ("userLogin"."ProviderKey" = @__providerKey_1)
+LIMIT 2
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.<ExecuteDbDataReaderAsync>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.<ExecuteAsync>d__17.MoveNext()
+2018-08-27 15:58:51.919 +02:00 [ERR] An exception occurred in the database while iterating the results of a query for context type 'IdentityServerWithAspNetIdentity.Data.ApplicationDbContext'.
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.<ExecuteDbDataReaderAsync>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.<ExecuteAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<BufferlessMoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<MoveNext>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.<SingleOrDefault_>d__381`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.<MoveNext>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.<MoveNextCore>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.<MoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.<MoveNext>d__5.MoveNext()
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.<ExecuteDbDataReaderAsync>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.<ExecuteAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<BufferlessMoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<MoveNext>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.<SingleOrDefault_>d__381`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.<MoveNext>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.<MoveNextCore>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.<MoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.<MoveNext>d__5.MoveNext()
+2018-08-27 15:58:52.032 +02:00 [ERR] An exception occurred in the database while iterating the results of a query for context type 'IdentityServerWithAspNetIdentity.Data.ApplicationDbContext'.
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.<ExecuteDbDataReaderAsync>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.<ExecuteAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<BufferlessMoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<MoveNext>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.<SingleOrDefault_>d__381`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.<MoveNext>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.<MoveNextCore>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.<MoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.<MoveNext>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<ExecuteSingletonAsyncQuery>d__23`1.MoveNext()
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUserLogins'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.<ExecuteDbDataReaderAsync>d__52.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.<ExecuteAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<BufferlessMoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncQueryingEnumerable`1.AsyncEnumerator.<MoveNext>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.<SingleOrDefault_>d__381`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.TaskResultAsyncEnumerable`1.Enumerator.<MoveNext>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.SelectEnumerableAsyncIterator`2.<MoveNextCore>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at System.Linq.AsyncEnumerable.AsyncIterator`1.<MoveNext>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.AsyncLinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.<MoveNext>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<ExecuteSingletonAsyncQuery>d__23`1.MoveNext()
+2018-08-27 15:59:08.671 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-27 15:59:09.050 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "6f6980c0-80a5-467b-8f25-837617038537",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGC4KH4DJBV:00000004",
+  "TimeStamp": "2018-08-27T13:59:09Z",
+  "ProcessId": 20524,
+  "LocalIpAddress": "127.0.0.1:12550",
+  "RemoteIpAddress": "::1"
+}
+2018-08-27 15:59:09.062 +02:00 [DBG] Augmenting SignInContext
+2018-08-27 15:59:09.066 +02:00 [DBG] Adding amr claim with value: external
+2018-08-27 15:59:09.075 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-27 15:59:09.081 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-27 15:59:09.099 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 15:59:09.102 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:20.978 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-27 16:01:21.024 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-27 16:01:21.030 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-27 16:01:21.031 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-27 16:01:21.033 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-27 16:01:21.035 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-27 16:01:21.568 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:21.582 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:27.098 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:27.100 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:29.118 +02:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-08-27 16:01:29.120 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:29.123 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-27 16:01:29.196 +02:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2018-08-27 16:01:29.199 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-27 16:01:29.201 +02:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2018-08-27 16:01:29.265 +02:00 [INF] {
+  "Name": "User Logout Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1002,
+  "SubjectId": "6f6980c0-80a5-467b-8f25-837617038537",
+  "DisplayName": "Ondřej Sotolář",
+  "ActivityId": "0HLGC4M8N1BFO:00000003",
+  "TimeStamp": "2018-08-27T14:01:29Z",
+  "ProcessId": 6920,
+  "LocalIpAddress": "127.0.0.1:1438",
+  "RemoteIpAddress": "::1"
+}
+2018-08-28 08:59:07.909 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-28 08:59:07.945 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-28 08:59:07.952 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-28 08:59:07.955 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-28 08:59:07.957 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-28 08:59:07.959 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-28 08:59:11.579 +02:00 [WRN] Heartbeat took longer than ""00:00:01"" at ""2018-08-28T06:59:11.5765276+00:00"".
+2018-08-28 08:59:42.438 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-28 09:00:01.691 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-28 09:00:05.487 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-28 09:00:05.523 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-28 09:00:10.392 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "6f6980c0-80a5-467b-8f25-837617038537",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGCMF0ITO7Q:00000004",
+  "TimeStamp": "2018-08-28T07:00:10Z",
+  "ProcessId": 3960,
+  "LocalIpAddress": "127.0.0.1:19706",
+  "RemoteIpAddress": "::1"
+}
+2018-08-28 09:00:10.402 +02:00 [DBG] Augmenting SignInContext
+2018-08-28 09:00:10.407 +02:00 [DBG] Adding amr claim with value: external
+2018-08-28 09:00:10.414 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-28 09:00:10.420 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-28 09:00:10.438 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:00:10.443 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:00:14.084 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:00:14.086 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:40:39.074 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-28 09:40:39.224 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-28 09:40:39.245 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-28 09:40:39.253 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-28 09:40:39.259 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-28 09:40:39.266 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-28 09:40:49.028 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:40:49.075 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:22.689 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:22.696 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:22.792 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-28 09:41:22.947 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:22.964 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:37.167 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:37.176 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:37.290 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-28 09:41:44.445 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-28 09:41:44.602 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:44.614 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:44.774 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-28 09:41:51.059 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "6f6980c0-80a5-467b-8f25-837617038537",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGCN67EU52F:00000004",
+  "TimeStamp": "2018-08-28T07:41:50Z",
+  "ProcessId": 4000,
+  "LocalIpAddress": "127.0.0.1:3207",
+  "RemoteIpAddress": "::1"
+}
+2018-08-28 09:41:51.102 +02:00 [DBG] Augmenting SignInContext
+2018-08-28 09:41:51.120 +02:00 [DBG] Adding amr claim with value: external
+2018-08-28 09:41:51.144 +02:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2018-08-28 09:41:51.164 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-28 09:41:51.191 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-28 09:41:51.282 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:41:51.302 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:42:00.010 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:42:00.018 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:42:04.881 +02:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-08-28 09:42:04.892 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:42:04.900 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 09:42:05.071 +02:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2018-08-28 09:42:05.081 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-28 09:42:05.091 +02:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2018-08-28 09:42:05.143 +02:00 [INF] {
+  "Name": "User Logout Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1002,
+  "SubjectId": "6f6980c0-80a5-467b-8f25-837617038537",
+  "DisplayName": "Ondřej Sotolář",
+  "ActivityId": "0HLGCN67EU52E:00000005",
+  "TimeStamp": "2018-08-28T07:42:05Z",
+  "ProcessId": 4000,
+  "LocalIpAddress": "127.0.0.1:3207",
+  "RemoteIpAddress": "::1"
+}
+2018-08-28 09:44:36.193 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-28 09:44:36.336 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-28 09:44:36.351 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-28 09:44:36.351 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-28 09:44:36.351 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-28 09:44:36.351 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-28 09:45:32.414 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-28 09:45:32.471 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-28 09:45:32.478 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-28 09:45:32.478 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-28 09:45:32.478 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-28 09:45:32.478 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-28 10:16:01.070 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2018-08-28 10:16:01.222 +02:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-28 10:16:01.235 +02:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-28 10:16:01.240 +02:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-28 10:16:01.245 +02:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-28 10:16:01.250 +02:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-28 10:17:32.297 +02:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-28 10:18:26.130 +02:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-28 10:18:32.258 +02:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-28 10:18:32.434 +02:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-28 10:18:39.272 +02:00 [INF] {
+  "Name": "User Login Success",
+  "Category": "Authentication",
+  "EventType": "Success",
+  "Id": 1000,
+  "Provider": "Google",
+  "ProviderUserId": "101494378925483496659",
+  "SubjectId": "6f6980c0-80a5-467b-8f25-837617038537",
+  "DisplayName": "Ondřej Sotolář",
+  "Endpoint": "UI",
+  "ActivityId": "0HLGCNPVSC17J:00000006",
+  "TimeStamp": "2018-08-28T08:18:39Z",
+  "ProcessId": 19560,
+  "LocalIpAddress": "127.0.0.1:27912",
+  "RemoteIpAddress": "::1"
+}
+2018-08-28 10:18:39.303 +02:00 [DBG] Augmenting SignInContext
+2018-08-28 10:18:39.315 +02:00 [DBG] Adding amr claim with value: external
+2018-08-28 10:18:39.339 +02:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-28 10:18:39.359 +02:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-28 10:18:39.439 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-28 10:18:39.452 +02:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
